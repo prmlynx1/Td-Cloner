@@ -28,7 +28,7 @@ The tool also supports **server name and icon cloning** to recreate the original
 
 ## 📥 Download
 
-Download the latest version from the **Releases** section.
+[Download the latest version from the **Releases** section.](https://github.com/prmlynx1/Td-Cloner/releases/tag/v1.0)
 
 Steps:
 
